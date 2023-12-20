@@ -1,0 +1,74 @@
+[
+    {
+        "title": "AWS Solutions Architect Associate",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/aws-solutions-architect-associate/Aws-Solutions-Architect-Associate.jpg",
+        "id": "aws-solutions-architect-associate",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Azure Administration",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/azure-administration/Azure-Administration.jpg",
+        "id": "azure-administration",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Azure Devops",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/azure-devops/Azure-Devops.jpg",
+        "id": "azure-devops",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Java/J2EE",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/core-java/Core-Java.jpg",
+        "id": "core-java",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "DevOps Master Course",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/devops-master-course/Devops-Master-Course.jpg",
+        "id": "devops-master-course",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Kubernetes Master Course",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/kubernetes/Kubernetes.jpg",
+        "id": "kubernetes",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Python Scripting",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/python-scripting/Python-Scripting.jpg",
+        "id": "python-scripting",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "React JS",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/react-js/React-Js.jpg",
+        "id": "react-js",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    },
+    {
+        "title": "Terraform Certification",
+        "photo": "https://adminappapis-publicdatabucket3968349e-bea8cnueqwrl.s3.ap-south-1.amazonaws.com/courses/terraform-certification/Terraform-Certification.jpg",
+        "id": "terraform-certification",
+        "likes": 0,
+        "dislikes": 0,
+        "total_rating": 0
+    }
+]
